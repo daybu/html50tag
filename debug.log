@@ -1,0 +1,28 @@
+[0521/201538.510:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/201538.510:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/201538.510:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/201538.510:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/201538.510:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0521/201538.510:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0521/201538.510:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0521/201605.789:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/201605.789:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/201605.789:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/201605.789:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/201605.789:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0521/201605.790:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0521/201605.791:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0521/213119.443:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/213119.463:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/213119.463:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/213119.463:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/213119.463:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0521/213119.465:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0521/213119.465:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0521/213124.881:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/213124.881:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/213124.881:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/213124.881:ERROR:persistent_memory_allocator.cc(678)] Corruption detected in shared-memory segment.
+[0521/213124.881:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
+[0521/213124.891:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0521/213124.892:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\settings.dat: Access is denied. (0x5)
